@@ -1,20 +1,0 @@
-
-var ftGUID_3182733="385140402E4C4F";
-var ftConfID_3182733="9047006";
-var ftParams_3182733="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ft_section=3593998__1716109312512858118&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_examples.asp&ft_keyword=COM_IN&cachebuster=440693.16084392864";
-var ftKeyword_3182733="com_in";
-var ftCustom_3182733="";
-var ftSection_3182733="3593998__1716109312512858118";
-var ftSegment_3182733="";
-var ftSegmentList_3182733=[];
-var ftRuleMatch_3182733="00010000";
-var ftTimestamp_3182733="1531892535";
-var ftImp3182733 = {};
-ftImp3182733.privacy = "x";
-ftImp3182733.guidAge = "0";
-ftImp3182733.impID = "A9D8A07A-2BCB-49C8-923C-252E8A0864F3";
-ftImp3182733.ft_tpplid = "";
-ftImp3182733.ft_c = {};
-
-document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/318/3182733/2225635/js/j-3182733-2225635.js" id="ftscript_m3182733" name="ftscript_m3182733"></scr'+'ipt>');
-                    
