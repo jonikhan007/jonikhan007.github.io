@@ -1,0 +1,256 @@
+	<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/fav.png">
+		<!-- Author Meta -->
+		<meta name="author" content="colorlib">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>Personal</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/jquery-ui.css">				
+			<link rel="stylesheet" href="css/nice-select.css">							
+			<link rel="stylesheet" href="css/animate.min.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">				
+			<link rel="stylesheet" href="css/main.css">
+		</head>
+		<body>	
+		  <header id="header">
+		    <div class="container main-menu">
+		    	<div class="row align-items-center justify-content-between d-flex">
+			      <div id="logo">
+			        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+			      </div>
+			      <nav id="nav-menu-container">
+			        <ul class="nav-menu">
+			          <li><a href="index.html">Home</a></li>
+			          <li><a href="about.html">Training Days</a></li> 
+						<nav id="nav-menu-container">	
+						 <ul>
+							<li><a href="day1.html">Day 1</a></li>
+							<li><a href="day2.html">Day 2</a></li>
+							<li><a href="pages/#">Day 3</a></li>
+					     	<li><a href="pages/#.html">Day 4</a></li>
+						    <li><a href="pages/#.html">Day 5</a></li>
+						</ul>
+						</nav>
+
+
+			          <li><a href="contact.html">Contact</a></li>
+			        </ul>
+			      </nav><!-- #nav-menu-container -->		    		
+		    	</div>
+		    </div>
+		  </header><!-- #header -->
+
+			<!-- start banner Area -->
+			<section class="banner-area">
+				<div class="container">
+					<div class="row fullscreen align-items-center justify-content-between">
+						<div class="col-lg-6 col-md-6 banner-left">
+							<h6>This is me</h6>
+							<h1>Md. Asadujjaman</h1>
+							<p>
+								Assistant Professsor and Member @ Fab Lab <br>
+                                Rajshahi University of Engineering & Technology (RUET) <br>
+								Rajshahi-6204 <br>
+								Bangladesh
+							</p>
+						</div>
+						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
+							<img class="img-fluid" src="img/asadujjaman.jpg" alt="">
+						</div>
+					</div>
+				</div>					
+			</section>
+			<!-- End banner Area -->
+
+			<!-- Start home-about Area -->
+			<section class="home-about-area pt-120">
+				<div class="container">
+					<div class="row align-items-center justify-content-between">
+						<div class="col-lg-6 col-md-6 home-about-left">
+							<img class="img-fluid" src="img/about-img.png" alt="">
+						</div>
+						<div class="col-lg-5 col-md-6 home-about-right">
+							<h6>About Me</h6>
+							<h1 class="text-uppercase">Personal Details</h1>
+							<p style="text-align:justify">
+								Mr. Md. Asadujjaman is working as an Assistant Professor in the Department of Industrial & Production Engineering at Rajshahi University of Engineering & Technology since June 2016. He joined as a Lectuter in January 2015 and as a Part Time Teacher in 2013 in the same Department same University. He completed his Master of Science in Industrial & Production Engineering from Bangladesh University of Enginrrring & Technology (BUET) in 2015. He also completed the Bachelor of Science in Industrial & Production Engineering from Rajshahi University of Enginrrring & Technology (RUET) in 2012. His Research interest includes Supply Chain Management, Financial Engineering, Ergonomics, Operations Mangement and Operations Research.
+							</p>
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End home-about Area -->
+
+			<!-- Start services Area -->
+			<section class="services-area section-gap">
+				<div class="container">
+		            <div class="row d-flex justify-content-center">
+		                <div class="menu-content  col-lg-7">
+		                    <div class="title text-center">
+		                        <h1 class="mb-10">Our Fab Lab Machineries</h1>       
+		                    </div>
+		                </div>
+		            </div>						
+					<div class="row">
+						<div class="col-lg-4 col-md-6">
+							<div class="single-services">
+								<a href="#"><h4>CNC Milling Machine</h4></a>
+								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-services">
+								<a href="#"><h4>Laser Cutter</h4></a>
+								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-services">
+								<a href="#"><h4>Vinyl Cutter</h4></a>
+								
+							</div>	
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-services">
+								<a href="#"><h4>3D Printer</h4></a>
+								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-services">
+									<a href="#"><h4>Precision Milling</h4></a>
+								
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6">
+							<div class="single-services">
+								<a href="#"><h4>PLC</h4></a>
+								
+							</div>				
+						</div>														
+					</div>
+				</div>	
+			</section>
+			<!-- End services Area -->	
+
+			<!-- Start testimonial Area -->
+		    <section class="testimonial-area section-gap">
+		        <div class="container">
+		            <div class="row d-flex justify-content-center">
+		                <div class="menu-content pb-70 col-lg-8">
+		                    <div class="title text-center">
+		                        <h1 class="mb-10">Learning Outcome at AKGEC</h1>
+		                        <p>Through the Digital Manufacturing course at AKGEC a vast knowledge has been gathered about the electro echanical system.</p>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="row">
+		                <div class="active-testimonial">
+		                    <div class="single-testimonial item d-flex flex-row">
+		                        <div class="thumb">
+		                            <img class="img-fluid" src="img/elements/user1.png" alt="">
+		                        </div>
+		                        <div class="desc">
+		                            <p>
+		                               <h4 style="text-align:left">Day 3</h4><br>
+									</p>
+		                        </div>
+		                    </div>
+		                    <div class="single-testimonial item d-flex flex-row">
+		                        <div class="thumb">
+
+		                        </div>
+		                        <div class="desc">
+		                            <p>
+		                                <h4 style="text-align:left">Day 4</h4><br>
+										<h5 style="text-align:left">Embedded System</h5><br>
+										<h style="text-align:justify">An embedded  system is designed to run the electro-mechanical system with the help of computer software. </h>
+										<br>
+										<h style="text-align:justify">The three main components of embedded system are:
+											<ul>
+											<li>1.	Sensor/ button (input) </li>
+											<li>2.	Processor/ controller and </li>
+											<li>3.	Actuator/LCD display/ motor driver (output)</li>
+											</ul><br>
+
+										<h5 style="text-align:left">Learning outcomes:</h5><br>
+										<h style="text-align:justify"> •	Programming with reshberrypi for embedded system.</h><br>
+
+										<br>
+										<h5 style="text-align:left">HTML</h5><br>
+										<h style="text-align:justify">Hypertext Markup Language (HTML) is the standard and most easy language for designing the webpage.</h>
+										<br>
+										<h5 style="text-align:left">Learning outcomes:</h5><br>
+											<ul>
+											<li>1. We have learnt the basic principle of web documents.</li>
+											<li>2. We have learnt different coding like inserting a heading, image, table, linking with CSS file, link with other website etc.</li>
+											<li>3. Viewing personal web page in online.</li>
+											<li>4. We made a small personal webpage inserting image, profile, educational background, research interest etc.</li>
+											<li>5. Finally, after this class we are able to make our own webpage using html code.</li>
+											</ul> <br>
+										
+										<h5 style="text-align:left">PCB Design</h5><br>
+											<ul>
+											<li>•	At first, an account was created in Autodesk Eagle-CAD.</li>
+											<li>•	Then, fab.lbr was downloaded.</li>
+											<li>•	Therefore, after opening the Eagle new project was opened.</li>
+											<li>•	Finally, PCB circuit was designed.</li>
+											</ul> <br>
+											
+										<h5 style="text-align:left">Learning outcomes:</h5><br>
+											<ul>
+											<li>•	What is PCB design?</li>
+											<li>•	How to use Autodesk Eagle-CAD for PCB design?</li>
+											<li>•	Making a small circuit using the Eagle.</li>
+											</ul>
+											
+									</p>
+		                        </div>
+		                    </div>
+		                </div>
+		            </div>
+		        </div>
+		    </section>
+		    <!-- End testimonial Area -->
+
+			
+
+			<script src="js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="js/popper.min.js"></script>
+			<script src="js/vendor/bootstrap.min.js"></script>			
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>			
+  			<script src="js/easing.min.js"></script>			
+			<script src="js/hoverIntent.js"></script>
+			<script src="js/superfish.min.js"></script>	
+			<script src="js/jquery.ajaxchimp.min.js"></script>
+			<script src="js/jquery.magnific-popup.min.js"></script>	
+    		<script src="js/jquery.tabs.min.js"></script>						
+			<script src="js/jquery.nice-select.min.js"></script>	
+            <script src="js/isotope.pkgd.min.js"></script>			
+			<script src="js/waypoints.min.js"></script>
+			<script src="js/jquery.counterup.min.js"></script>
+			<script src="js/simple-skillbar.js"></script>							
+			<script src="js/owl.carousel.min.js"></script>							
+			<script src="js/mail-script.js"></script>	
+			<script src="js/main.js"></script>	
+		</body>
+	</html>
